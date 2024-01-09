@@ -38,6 +38,8 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="E:\Nimap company\Nimap"/>
+			<item value="E:\Nimap company\Nimap_MachineTest"/>
 			<item value="E:\Nimap company\Categeory_product\Categeory_product"/>
 			<item value="E:\Nimap company\Categeory_product"/>
 		</list>
